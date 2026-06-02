@@ -9,6 +9,6 @@
 ░  ░  ░   ░░░ ░ ░  ░    ░   ░ ░    ▒ ░░      ░   ░ ░ ░ ░ ░  ░   ▒      ░   
       ░     ░      ░          ░  ░ ░         ░     ░ ░          ░  ░   ░  ░
                         ░                        ░
-´´´
+ ```
 
-<img width="400" height="21" alt="divider" src="https://github.com/user-attachments/assets/8bc8c4ab-c443-44ec-8d8e-1047f63e185c" />
+<img width="400" height="21" alt="divider" src="https://github.com/user-attachments/assets/1aaf4269-8ea4-4286-a9e7-f7289dd21a76" />
