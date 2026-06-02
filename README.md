@@ -8,5 +8,7 @@
 ░ ░▒  ░ ░░░▒░ ░ ░ ▒░▒   ░ ░ ░ ▒  ░ ▒ ░░  ░      ░░░▒ ▒ ░ ▒  ▒   ▒▒ ░ ░ ░  ░
 ░  ░  ░   ░░░ ░ ░  ░    ░   ░ ░    ▒ ░░      ░   ░ ░ ░ ░ ░  ░   ▒      ░   
       ░     ░      ░          ░  ░ ░         ░     ░ ░          ░  ░   ░  ░
-                        ░                        ░                         
-´´
+                        ░                        ░
+´´´
+
+<img width="400" height="21" alt="divider" src="https://github.com/user-attachments/assets/8bc8c4ab-c443-44ec-8d8e-1047f63e185c" />
