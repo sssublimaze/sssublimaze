@@ -9,5 +9,4 @@
  ▄████████▀  ████████▀  ▄█████████▀  █████▄▄██ █▀    ▀█   ███   █▀    ███    █▀   ▀████████▀   ██████████ 
                                      ▀                                                                    
  ```
-
-<img width="498" height="12" alt="ss" src="https://github.com/user-attachments/assets/9fc37b68-fc6f-46a1-81b6-ee9d4fe2bfde" /><img width="498" height="12" alt="ss" src="https://github.com/user-attachments/assets/9fc37b68-fc6f-46a1-81b6-ee9d4fe2bfde" />
+<img width="400" height="21" alt="divider" src="https://github.com/user-attachments/assets/c1b4d9e0-bd8c-47d2-a013-1ca482b4da6c" /> <img width="400" height="21" alt="divider" src="https://github.com/user-attachments/assets/c1b4d9e0-bd8c-47d2-a013-1ca482b4da6c" />
