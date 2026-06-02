@@ -9,4 +9,5 @@
                                                                                                                        
                                                                                                                        
 ```
-<img width="600" height="600" alt="13" src="https://github.com/user-attachments/assets/67e2fbee-f48f-4bfd-ad46-9717bca9f940" />
+
+<img width="1200" height="400" alt="sublimzaer" src="https://github.com/user-attachments/assets/828d961f-15ce-4ee2-9f7c-60979120dac5" />
