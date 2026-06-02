@@ -10,4 +10,4 @@
                                      ▀                                                                    
  ```
 
-<img width="498" height="280" alt="ss" src="https://github.com/user-attachments/assets/cfaa7bd9-3ebb-4f8c-9cc9-56b5f8df9d67" /> <img width="498" height="280" alt="ss" src="https://github.com/user-attachments/assets/cfaa7bd9-3ebb-4f8c-9cc9-56b5f8df9d67" />
+<img width="498" height="12" alt="ss" src="https://github.com/user-attachments/assets/9fc37b68-fc6f-46a1-81b6-ee9d4fe2bfde" /> <img width="498" height="12" alt="ss" src="https://github.com/user-attachments/assets/9fc37b68-fc6f-46a1-81b6-ee9d4fe2bfde" />
