@@ -1,2 +1,1 @@
-
-<img width="1200" height="400" alt="sublimzaer" src="https://github.com/user-attachments/assets/828d961f-15ce-4ee2-9f7c-60979120dac5" />
+<img width="2752" height="1536" alt="make_it_with_a_smoke_202606021351" src="https://github.com/user-attachments/assets/ba91b35d-aeb3-4bdc-87cf-bbc91c016d0c" />
