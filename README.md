@@ -9,5 +9,4 @@
                                                                                                                        
                                                                                                                        
 ```
-
-<img width="1200" height="400" alt="4beaca89dc536ab5b2766d00af2f095e" src="https://github.com/user-attachments/assets/723b9c41-2ed2-4efb-8bdd-4f73dcf7a911" />
+<img width="600" height="600" alt="13" src="https://github.com/user-attachments/assets/67e2fbee-f48f-4bfd-ad46-9717bca9f940" />
