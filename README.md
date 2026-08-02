@@ -15,4 +15,3 @@ X: `*88888%`     !   8888  888R    9888  888E   888R     888E    X888  888X '888
                                                                                                  "+:*%`              
                                                                                                                      
  ```
-<img width="400" height="21" alt="divider" src="https://github.com/user-attachments/assets/c1b4d9e0-bd8c-47d2-a013-1ca482b4da6c" /> <img width="400" height="21" alt="divider" src="https://github.com/user-attachments/assets/c1b4d9e0-bd8c-47d2-a013-1ca482b4da6c" />
